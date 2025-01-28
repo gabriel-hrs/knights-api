@@ -9,7 +9,7 @@ A API é desenvolvida em **Node.js** utilizando **Express.js** e **MongoDB** com
 ### 1️⃣ Rodar Localmente
 1. **Clone este repositório:**
    ```sh
-   git clone https://github.com/seu-usuario/knights-api.git
+   git clone https://github.com/gabriel-hrs/knights-api.git
    ```
 2. **Acesse a pasta do projeto:**
    ```sh
